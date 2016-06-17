@@ -1,0 +1,23 @@
+{
+  "name": "hapi-rwmethod",
+  "version": "1.0.0",
+  "description": "a Hapi module for automatic server method registering by specific directory by Rathawut",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rathawut-l/hapi-rwmethod.git"
+  },
+  "keywords": [
+    "hapi",
+    "server-method"
+  ],
+  "author": "Rathawut Lertsuksakda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rathawut-l/hapi-rwmethod/issues"
+  },
+  "homepage": "https://github.com/Rathawut-l/hapi-rwmethod#readme"
+}
