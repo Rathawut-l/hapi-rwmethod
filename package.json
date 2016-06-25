@@ -1,6 +1,6 @@
 {
   "name": "hapi-rwmethod",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "a Hapi module for automatic server method registering by specific directory by Rathawut",
   "main": "lib/index.js",
   "scripts": {
